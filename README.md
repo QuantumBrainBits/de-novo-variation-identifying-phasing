@@ -1,4 +1,4 @@
-Identification and Phasing de novo DNA variation
+Tool name : Identification and Phasing de novo DNA variation
 
 ![image](https://github.com/user-attachments/assets/f165de0f-93d5-498c-b98c-686bb7d79c81)
 
