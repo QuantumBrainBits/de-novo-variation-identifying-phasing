@@ -1,7 +1,7 @@
 Tool name : Identification and Phasing de novo DNA variation
 
 ![image](https://github.com/user-attachments/assets/f165de0f-93d5-498c-b98c-686bb7d79c81)
-
+![Screenshot from 2025-06-17 18-40-24](https://github.com/user-attachments/assets/e3c85eaf-180a-4e6c-8262-724b892b4fdd)
 
 
 Intro:
